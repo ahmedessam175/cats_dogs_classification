@@ -1,2 +1,2 @@
-# cats_dogs_classification
+# cats_dogs_classification using neural network
 cats_dogs_classification
